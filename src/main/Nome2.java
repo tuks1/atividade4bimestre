@@ -11,6 +11,6 @@ package main;
  */
 public class Nome2 {
     public static void main(String[] args) {
-        System.out.println("José Cleiton");
+        System.out.println("Cleiton");
     }
 }
