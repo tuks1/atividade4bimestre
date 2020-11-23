@@ -9,8 +9,8 @@ package main;
  *
  * @author USER-
  */
-public class App {
+public class Nome1 {
     public static void main(String[] args) {
-        System.out.println("Hello Word");
+        System.out.println("Eduardo Gomes");
     }
 }
